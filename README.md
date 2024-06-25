@@ -1,6 +1,6 @@
 --- Exploring the universe, one line of code at a time ---
 
-Hello! I'm a second-year computer science major at Penn State University Park.
+Hello! I'm a second-year Schreyer Computer Science Major at Penn State University Park.
 
 Some of my hobbies include video game development, engineering celestial bodies for Kerbal Space Program, and drawing mazes.
 <!---
